@@ -1,0 +1,23 @@
+{
+    "anger": 0,
+    "annoyance": 1,
+    "confusion": 2,
+    "cool": 3,
+    "disappointed": 4,
+    "disgust": 5,
+    "excited": 6,
+    "fear": 7,
+    "gratitude": 8,
+    "happy": 9,
+    "joy": 10,
+    "love": 11,
+    "nervous": 12,
+    "neutral": 13,
+    "peaceful": 14,
+    "playful": 15,
+    "pride": 16,
+    "sadness": 17,
+    "surprise": 18,
+    "suspicious": 19,
+    "yummy": 20
+}

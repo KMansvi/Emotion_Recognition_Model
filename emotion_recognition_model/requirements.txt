@@ -1,0 +1,5 @@
+torch
+transformers
+emoji
+pandas
+scikit-learn
